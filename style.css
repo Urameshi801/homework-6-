@@ -1,0 +1,44 @@
+h1{
+    margin-top: -2rem;
+    font-family: sans-serif;
+    font-size: 4rem;
+    font-weight: 700;
+}
+p, a{
+    font-family: sans-serif;
+}
+h3, h4, h5{
+    font-family: sans-serif;
+    font-weight: 700;
+}
+.jumbotron{
+    background-color: black;
+    color: rgb(red, green, blue);
+    height: 4rem;
+    margin-bottom: 0px;
+}
+.moderate{
+    border-radius: 6px;
+    background-color: lavender;
+    padding: 5px;
+    color: ghostwhite;
+}
+.high{
+    border-radius: 6px;
+    background-color: ghostwhite;
+    padding: 5px;
+    color: black;
+}
+.vhigh{
+    border-radius: 6px;
+    background-color: cornflowerblue;
+    padding: 5px;
+    color: white;
+}
+.searchCol{
+    height: 100vh;
+    background-color: whitesmoke;
+    padding-top: 1rem;
+    padding-right: 2rem;
+    margin-right: -1rem;
+}
